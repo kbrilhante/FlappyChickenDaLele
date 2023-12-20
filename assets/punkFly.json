@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "flying/frame-1.png",
+	"frame": {"x":0,"y":0,"w":71,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":64},
+	"sourceSize": {"w":71,"h":64}
+},
+{
+	"filename": "flying/frame-2.png",
+	"frame": {"x":71,"y":0,"w":71,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":64},
+	"sourceSize": {"w":71,"h":64}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "punkFly.png",
+	"format": "RGBA8888",
+	"size": {"w":142,"h":64},
+	"scale": "0.1",
+	"smartupdate": "$TexturePacker:SmartUpdate:fc2c58d47b737a1ca952c826556a7b94:a944836b068977295f278d768ceaaf0f:1ab5629213a97af35215bfaa057ca82b$"
+}
+}

@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "got hit/frame-1.png",
+	"frame": {"x":0,"y":0,"w":73,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":69},
+	"sourceSize": {"w":73,"h":69}
+},
+{
+	"filename": "got hit/frame-2.png",
+	"frame": {"x":73,"y":0,"w":73,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":69},
+	"sourceSize": {"w":73,"h":69}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "punkGotHit.png",
+	"format": "RGBA8888",
+	"size": {"w":146,"h":69},
+	"scale": "0.1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7b0d2e3a15fbdf3d97c33c386b67128b:253ec15caafe2e63331fcde71e1f2086:69e141b4c2497829bb1ea4f9ff252893$"
+}
+}

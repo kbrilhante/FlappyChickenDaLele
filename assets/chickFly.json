@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "flying/frame-1.png",
+	"frame": {"x":0,"y":0,"w":110,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":87},
+	"sourceSize": {"w":110,"h":87}
+},
+{
+	"filename": "flying/frame-2.png",
+	"frame": {"x":110,"y":0,"w":110,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":87},
+	"sourceSize": {"w":110,"h":87}
+},
+{
+	"filename": "flying/frame-3.png",
+	"frame": {"x":220,"y":0,"w":110,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":87},
+	"sourceSize": {"w":110,"h":87}
+},
+{
+	"filename": "flying/frame-4.png",
+	"frame": {"x":330,"y":0,"w":110,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":87},
+	"sourceSize": {"w":110,"h":87}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "chickFly.png",
+	"format": "RGBA8888",
+	"size": {"w":440,"h":87},
+	"scale": "0.1",
+	"smartupdate": "$TexturePacker:SmartUpdate:06a78c6005e2a7f5ffcb74d0c257e8e7:363facb240e6d68fb017433c8885aa79:e19965f50ffe5b14ab7f6aff75481433$"
+}
+}

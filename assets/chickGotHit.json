@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "got hit/frame-1.png",
+	"frame": {"x":0,"y":0,"w":117,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":98},
+	"sourceSize": {"w":117,"h":98}
+},
+{
+	"filename": "got hit/frame-2.png",
+	"frame": {"x":117,"y":0,"w":117,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":98},
+	"sourceSize": {"w":117,"h":98}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "chickGotHit.png",
+	"format": "RGBA8888",
+	"size": {"w":234,"h":98},
+	"scale": "0.1",
+	"smartupdate": "$TexturePacker:SmartUpdate:52a2e1e547e84973bb496508b33e9920:68bf7daf0c12dcc5585110c76efc7e3b:76ba4c44584aeec9bf1235f67c95b85b$"
+}
+}
