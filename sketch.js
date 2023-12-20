@@ -149,7 +149,7 @@ function criaCanos() {
 function criaPipes(x) {
     const gap = new Sprite();
     gap.collider = 'n';
-    gap.h = 160;
+    gap.h = 180;
     gap.y = random(gap.h, height - gap.h);
     gap.x = x;
 
